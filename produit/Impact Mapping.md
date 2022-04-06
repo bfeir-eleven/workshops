@@ -11,11 +11,20 @@ L'Impact Mapping se fait en trois parties :
 
 ## Définition de l'objectif produit
 
-Je prends comme hypothèse que vous voulez créer un objectif pour répondre à un besoin pour des utilisateurs finaux. Des objectifs comme "livrer la première version de mon produit en juillet" n'est pas un objectif qui concerne l'utilisateur. Par contre, un objectif comme "avoir 10000 nouveaux utilisateurs sur notre plateforme d'ici 3 mois" est un objectif lié à vos utilisateurs.
+Je prends comme hypothèse que vous voulez créer un objectif pour répondre à un besoin pour des utilisateurs finaux. Des objectifs comme "livrer la première version de mon produit en juillet" n'est pas un objectif qui concerne l'utilisateur. Par contre, un objectif comme "avoir 10000 nouveaux utilisateurs sur notre plateforme d'ici 3 mois" est un objectif bien plus intéressant et puissant.
 
 Les questions qui pourraient être posées, et qui ne sont qu'un guide ici, pourraient être :
 - Que voudriez-vous avoir pour votre produit d'ici 3 mois / 6 mois ? (Définition de l'objectif)
 - Si votre objectif est atteint, pouvez-vous me décrire en quoi c'est un succès ? (Vérification du lien avec l'utilisateur)
 - En quoi cet objectif est-il important pour vous ? (Enjeu de l'objectif)
-- Comment saurez-vous que c'est un succès ? Et comment pourriez-vous le chiffrer ? (Mesure liée à l'utilisateur)
+- Comment saurez-vous que c'est un succès ? Et comment pourriez-vous le chiffrer ? Pour quand cela devrait être atteint ? (Mesure liée à l'utilisateur)
+
+L'objectif a généralement une forme de ce type :
+> **verbe d'action / mesure chiffrée / temporalité**
+
+Comme l'exemple pris plus haut : "avoir 10000 nouveaux utilisateurs sur notre plateforme d'ici 3 mois".
+
+## Création de l'Impact Map
+
+Prenons comme scénario un site web de jeux de sociétés en ligne. Le business a un modèle uniquement payant par inscription à l'année uniquement, et souhaite amener 10000 nouveaux utilisateurs payants, sachant qu'ils en ont déjà environ 10000 payants. Voilà un exemple d'ébauche d'Impact Mapping :
 
